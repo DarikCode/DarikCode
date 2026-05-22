@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Darik
-**A passionate Cloud Engineer || DevOps Engineer || AWS Community Builder || Kafka Admin from India**
+**A passionate Cloud Engineer || DevOps Engineer || AWS Community Builder**
 
 
 ## 🌐 Socials:
